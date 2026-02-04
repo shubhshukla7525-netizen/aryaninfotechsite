@@ -141,7 +141,7 @@ footer{background:#05070d;text-align:center;padding:15px;font-size:13px;color:#a
     <h2 class="title">Contact Us</h2>
     <div class="contact">
         <p>📞 9336978841</p>
-        <p>📧 aryanvimal56@gmail.com</p>
+        <p>📧 aryaninfotech1182@gmail.com</p>
         <p>🏠 Natkur Post chandrawal,saroni nagar Lucknow-226002</p>
         <div class="buttons">
             <a href="tel:9336978841">Call Now</a>
